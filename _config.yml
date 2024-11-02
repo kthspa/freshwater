@@ -7,18 +7,18 @@
 ##########
 # Play SETTINGS
 # Enter a Google sheets link (like the one below), a relative link to a CSV file in the repository (e.g. /assets/data/play_example.csv), or a link to a CSV file stored somewhere accessible on the internet (i.e. https://example.com/play_example.csv)
-play: https://docs.google.com/spreadsheets/d/e/2PACX-1vT4-hSjZe4pN0R2-fzmNyc_yrE355W1RgOBmYJ4PF-Lsyo1bKpWVKgwYqGOxGnMvvV41__J66Yjyxa1/pub?output=csv
+play: https://docs.google.com/spreadsheets/d/e/2PACX-1vTwov6HjqqfE65gBT57c9vhHxtAobLoZ7J-h0RN5htn2zwL7V__dKrVE1RUFZYDWhoSMR2WVbuVpM0K/pub?output=csv
 
 
 ##########
 # Site SETTINGS
 # Site
-title: A Midsummer Night's Dream
+title: Freshwater
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "a collaborative annotation of "
+description: "a collaborative annotation of Virginia Woolf's only play *Freshwater*"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: dcnb
+author: RIT Students in PRFL 320 Dramaturgy
 
 
 ##########
