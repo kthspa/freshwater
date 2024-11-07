@@ -23,7 +23,7 @@ Adolph, Andrea. "Virginia Woolf's Revision of a Shavian Tradition." *SHAW The An
 *Buy Tulip Tree (Liriodendron Tulipifera) Online from UK Supplier of Ornamental Garden*  
 *Trees.* [https://www.trees-online.co.uk/Tulip-Trees.html](https://www.trees-online.co.uk/Tulip-Trees.html). Accessed 5 Oct. 2024\.  
 
-Bradley, Andrew. “A Commentary on Tennyson’s in Memoriam.” Google Books, Google, [www.books.google.com/books?hl=en\&lr=\&id=nOQ5AAAAMAAJ\&oi=fnd\&pg=PA16\&dq=in%2Bmemoriam%2Btennyson%2Bdescription\&ots=gWys30RBWJ\&sig=RBLlcvEHyLBHyUeAxUdzp-CRPUk\#v=onepage\&q=in%20memoriam%20tennyson%20description\&f=false](books.google.com/books?hl=en\&lr=\&id=nOQ5AAAAMAAJ\&oi=fnd\&pg=PA16\&dq=in%2Bmemoriam%2Btennyson%2Bdescription\&ots=gWys30RBWJ\&sig=RBLlcvEHyLBHyUeAxUdzp-CRPUk\#v=onepage\&q=in%20memoriam%20tennyson%20description\&f=false). Accessed 16 Oct. 2024\.  
+Bradley, Andrew Cecil. *A Commentary on Tennyson’s In Memoriam.* University of Michigan Press, 1901.
 
 Britannica, The Editors of Encyclopaedia. "Arthur Henry Hallam". *Encyclopedia Britannica*, 11 Sep. 2024, [https://www.britannica.com/biography/Arthur-Henry-Hallam](https://www.britannica.com/biography/Arthur-Henry-Hallam). Accessed 14 October 2024\.  
 
@@ -33,13 +33,13 @@ Britannica, The Editors of Encyclopaedia. "George Frederick Watts". *Encyclopedi
 Britannica, The Editors of Encyclopaedia. "Julia Margaret Cameron". *Encyclopedia Britannica*, 7  
 Jun. 2024, [https://www.britannica.com/biography/Julia-Margaret-Cameron](https://www.britannica.com/biography/Julia-Margaret-Cameron). Accessed 28 October 2024\.  
 
-Britannica. “Krishna | Story, Meaning, Description, & Legends.” *Encyclopedia Britannica*, 12 September 2024, [https://www.britannica.com/topic/Krishna-Hindu-deity](https://www.britannica.com/topic/Krishna-Hindu-deity). Accessed 17 October 2024.  
+Britannica. “Krishna” *Encyclopedia Britannica*, 12 September 2024, [https://www.britannica.com/topic/Krishna-Hindu-deity](https://www.britannica.com/topic/Krishna-Hindu-deity). Accessed 17 October 2024.  
 
 Britannica, The Editors of Encyclopaedia. "Maud". *Encyclopedia Britannica*, 3 Oct. 2013, [https://www.britannica.com/topic/Maud-poem-by-Tennyson](https://www.britannica.com/topic/Maud-poem-by-Tennyson). Accessed 14 October 2024\.  
 
 Britannica, The Editors of Encyclopaedia. "Nell Gwyn". *Encyclopedia Britannica*, 11 Mar. 2024, [https://www.britannica.com/biography/Nell-Gwyn-English-actress](https://www.britannica.com/biography/Nell-Gwyn-English-actress). Accessed 14 October 2024\.  
 
-Cambridge Dictionary. “WC | definition in the Cambridge English Dictionary.” *Cambridge Dictionary,* [https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette](https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette).Accessed 27 October 2024\.  
+Cambridge Dictionary. “WC definition in the Cambridge English Dictionary.” *Cambridge Dictionary,* [https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette](https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette).Accessed 27 October 2024\.  
 
 “Charles Hay Cameron (the J. Paul Getty Museum Collection).” *Getty*, Getty Museum,  
  [www.getty.edu/art/collection/object/104G0J](www.getty.edu/art/collection/object/104G0J). Accessed 28 Oct. 2024\.  
@@ -84,13 +84,13 @@ Fitch, Catherine A., and Steven Ruggles. *Historical Trends in Marriage Formatio
 
 “Genesis 3:7.” *Bible Study Tools*, Bible Study Tools, [https://www.biblestudytools.com/genesis/3-7.html](https://www.biblestudytools.com/genesis/3-7.html). Accessed 27 Oct. 2024\.  
 
-Google Maps, [*https://www.google.com/maps/dir/Farringford+Historic+House+and+Gardens,+Bedbury+Ln,+Freshwater+PO40+9PE,+United+Kingdom/Clerkenwell,+London,+UK/@51.0912845,-2.1680962,8z/data=\!3m1\!4b1\!4m14\!4m13\!1m5\!1m1\!1s0x4873802b78661d91:0x8657cf335adf278a\!2m2\!1d-1.5239924\!2d50.6741877\!1m5\!1m1\!1s0x48761b51a7c90417:0x6ae43501d5f6d3f8\!2m2\!1d-0.1078746\!2d51.5264898\!3e0?entry=ttu\&g\_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D*](https://www.google.com/maps/dir/Farringford+Historic+House+and+Gardens,+Bedbury+Ln,+Freshwater+PO40+9PE,+United+Kingdom/Clerkenwell,+London,+UK/@51.0912845,-2.1680962,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4873802b78661d91:0x8657cf335adf278a!2m2!1d-1.5239924!2d50.6741877!1m5!1m1!1s0x48761b51a7c90417:0x6ae43501d5f6d3f8!2m2!1d-0.1078746!2d51.5264898!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)*,* Accessed November 1, 2024\.  
+Google Maps, [https://maps.app.goo.gl/aK9CiWk1q8pu7hb47](https://maps.app.goo.gl/aK9CiWk1q8pu7hb47)*,* Accessed November 1, 2024\.  
 
 Grant, Marion. “Ellen Terry.” *COVE*, 31 Jan. 2019, [editions.covecollective.org/place/ellen-terry](editions.covecollective.org/place/ellen-terry).  
 
 Green, Andrew. “Where Did God Save The King Come from? A Guide to the History of the British National Anthem.” *Classical Music, BBC Music Magazine*, 24 Apr. 2024, [classical-music.com/features/works/where-did-god-save-the-king-come-from-a-guide-to-the-history-of-our-national-anthem](classical-music.com/features/works/where-did-god-save-the-king-come-from-a-guide-to-the-history-of-our-national-anthem).  
 
-Gregersen, Erik. “William Herschel | Biography, Education, Telescopes, & Facts.” *Encyclopædia Britannica*, 2019, [www.britannica.com/biography/William-Herschel](www.britannica.com/biography/William-Herschel).  
+Gregersen, Erik. “William Herschel Biography, Education, Telescopes, & Facts.” *Encyclopædia Britannica*, 2019, [www.britannica.com/biography/William-Herschel](www.britannica.com/biography/William-Herschel).  
 
 “The Hairy History of “Sideburns.” [Www.merriam-Webster.com,www.merriam-webster.com/wordplay/sideburns-meaning-origin](http://Www.merriam-Webster.com,www.merriam-webster.com/wordplay/sideburns-meaning-origin).  
 
@@ -102,7 +102,7 @@ Harvey, Karen. “Men of Parts: Masculine Embodiment and the Male Leg in Eightee
 
 Hill, J. “Bat.” *Ancient Egypt Online*, 2010\. [https://ancientegyptonline.co.uk/bat/](https://ancientegyptonline.co.uk/bat/)  
 
-“HMS Iron Duke (F234).” *HMS Iron Duke | Royal Navy*, [www.royalnavy.mod.uk/organisation/units-and-squadrons/type-23/hms-iron-duke](www.royalnavy.mod.uk/organisation/units-and-squadrons/type-23/hms-iron-duke).  
+“HMS Iron Duke (F234).” *HMS Iron Duke Royal Navy*, [www.royalnavy.mod.uk/organisation/units-and-squadrons/type-23/hms-iron-duke](www.royalnavy.mod.uk/organisation/units-and-squadrons/type-23/hms-iron-duke).  
 
 “Home 1.” *Dimbola.co.uk*, 2024, [dimbola.co.uk/](dimbola.co.uk/). Accessed 29 Oct. 2024\.  
 
