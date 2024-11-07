@@ -15,7 +15,7 @@ Adolph, Andrea. "Virginia Woolf's Revision of a Shavian Tradition." *SHAW The An
 
 “Beatrice.” *Archives and Special Collections*, [https://library.unimelb.edu.au/asc/whats-on/exhibitions/epic-and-divine/dramatic-personae/beatrice](https://library.unimelb.edu.au/asc/whats-on/exhibitions/epic-and-divine/dramatic-personae/beatrice). Accessed 28 Oct. 2024\.  
 
-“Bloomsbury Group.” *Encyclopædia Britannica*, Encyclopædia Britannica, inc., 14 Oct. 2024, [https://www.britannica.com/topic/Bloomsbury-group]([www.britannica.com/topic/Bloomsbury-group](https://www.britannica.com/topic/Bloomsbury-group)).  
+“Bloomsbury Group.” *Encyclopædia Britannica*, Encyclopædia Britannica, inc., 14 Oct. 2024, [https://www.britannica.com/topic/Bloomsbury-group](https://www.britannica.com/topic/Bloomsbury-group).  
 
 *Buy Tulip Tree (Liriodendron Tulipifera) Online from UK Supplier of Ornamental Garden Trees.* [https://www.trees-online.co.uk/Tulip-Trees.html](https://www.trees-online.co.uk/Tulip-Trees.html). Accessed 5 Oct. 2024\.  
 
