@@ -35,19 +35,19 @@ Britannica, The Editors of Encyclopaedia. "Nell Gwyn". *Encyclopedia Britannica*
 
 Cambridge Dictionary. “WC definition in the Cambridge English Dictionary.” *Cambridge Dictionary,* [https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette](https://dictionary.cambridge.org/us/dictionary/english/wc\#google\_vignette).Accessed 27 October 2024\.  
 
-“Charles Hay Cameron (the J. Paul Getty Museum Collection).” *Getty*, Getty Museum, [www.getty.edu/art/collection/object/104G0J](www.getty.edu/art/collection/object/104G0J). Accessed 28 Oct. 2024\.  
+“Charles Hay Cameron (the J. Paul Getty Museum Collection).” *Getty*, Getty Museum, [[www.getty.edu/art/collection/object/104G0J](https://www.getty.edu/art/collection/object/104G0J)](https://www.getty.edu/art/collection/object/104G0J). Accessed 28 Oct. 2024\.  
 
 Chapman, Ronald. “Last Impressions.” *The Laurel And The Thorn: A Study of G.F. Watts*, Faber and Faber Limited, London, 1945, pp. 140\.  [https://archive.org/details/in.ernet.dli.2015.176364/page/n169/mode/2up?q=utmost](https://archive.org/details/in.ernet.dli.2015.176364/page/n169/mode/2up?q=utmost).  
 
-“Cork Rumps and Downy Calves: Fashion Fads in Georgian St Albans.” St Albans Times, 29 Jan. 2024, [stalbanstimes.co.uk/feature/cork-rumps-and-downy-calves-fashion-fads-in-georgian-st-albans/](stalbanstimes.co.uk/feature/cork-rumps-and-downy-calves-fashion-fads-in-georgian-st-albans/).  
+“Cork Rumps and Downy Calves: Fashion Fads in Georgian St Albans.” St Albans Times, 29 Jan. 2024, [https://stalbanstimes.co.uk/feature/cork-rumps-and-downy-calves-fashion-fads-in-georgian-st-albans/](https://stalbanstimes.co.uk/feature/cork-rumps-and-downy-calves-fashion-fads-in-georgian-st-albans/).  
 
-“Concertina.” *Encyclopædia Britannica*, Encyclopædia Britannica, inc., [www.britannica.com/art/concertina](www.britannica.com/art/concertina). Accessed 16 Oct. 2024\.  
+“Concertina.” *Encyclopædia Britannica*, Encyclopædia Britannica, inc., [https://www.britannica.com/art/concertina](https://www.britannica.com/art/concertina). Accessed 16 Oct. 2024\.  
 
 Cox, Julian. “The Rosebud Garden of Girls.” *Getty Museum*, [https://www.getty.edu/art/collection/object/104G3E](https://www.getty.edu/art/collection/object/104G3E). Accessed 17 October 2024\.  
 
-Daniel, Malcolm. “Julia Margaret Cameron – an Introduction · V\&A.” Victoria and Albert Museum, [www.vam.ac.uk/articles/julia-margaret-cameron-introduction](www.vam.ac.uk/articles/julia-margaret-cameron-introduction). Accessed14 Oct. 2024\.  
+Daniel, Malcolm. “Julia Margaret Cameron – an Introduction · V\&A.” Victoria and Albert Museum,[https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction](https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction). Accessed14 Oct. 2024\.  
 
-“Did Vanity Kill Modesty in the World Forever?” *Soapbox Daily*, 2022, [player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632](player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632). Accessed 25 Oct.2024.  
+“Did Vanity Kill Modesty in the World Forever?” *Soapbox Daily*, 2022, [https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632](https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632). Accessed 25 Oct.2024.  
 
 Dixon, Kevin. “Babbacombe’s Georgina and Torquay’s Animal Welfare Campaigners.” *We Are South Devon*, 28 Dec. 2022, [wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/](wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/).  
 
