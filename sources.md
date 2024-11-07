@@ -45,9 +45,9 @@ Chapman, Ronald. “Last Impressions.” *The Laurel And The Thorn: A Study of G
 
 Cox, Julian. “The Rosebud Garden of Girls.” *Getty Museum*, [https://www.getty.edu/art/collection/object/104G3E](https://www.getty.edu/art/collection/object/104G3E). Accessed 17 October 2024\.  
 
-Daniel, Malcolm. “Julia Margaret Cameron – an Introduction · V\&A.” Victoria and Albert Museum, [https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction](https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction). Accessed14 Oct. 2024\.  
+Daniel, Malcolm. “Julia Margaret Cameron – an Introduction · V\&A.” Victoria and Albert Museum, [https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction](https://www.vam.ac.uk/articles/julia-margaret-cameron-introduction). Accessed 14 Oct. 2024\.  
 
-“Did Vanity Kill Modesty in the World Forever?” *Soapbox Daily*, 2022, [https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632](https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632). Accessed 25 Oct.2024.  
+“Did Vanity Kill Modesty in the World Forever?” *Soapbox Daily*, 2022, [https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632](https://player.captivate.fm/episode/05f6b85b-c58e-4322-a4d5-3aeb12690632). Accessed 25 Oct. 2024.  
 
 Dixon, Kevin. “Babbacombe’s Georgina and Torquay’s Animal Welfare Campaigners.” *We Are South Devon*, 28 Dec. 2022, [https://wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/](https://wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/).  
 
@@ -147,7 +147,7 @@ Popkin, Richard H. “Benedict de Spinoza, Biography, Ethics, & Facts.” *Brita
 
 Reade, William Winwood. *The Veil of Isis, Or Mysteries of the Druids*. Red Wheel/Weiser, 1992\. Accessed 25 October 2024\.  
 
-Rendelman, Dan. “My Utmost for His Highest Written by Oswald Chambers*.” The Newberry Observer*, 8 October 1999, p. 6, [https://news.google.com/newspapers?id=52BDAAAAIBAJ\&pg=1885,2761933\&dq=my-utmostfor-his-highest\&hl=en](https://news.google.com/newspapers?id=52BDAAAAIBAJ\&pg=1885,2761933\&dq=my-utmostfor-his-highest\&hl=en).  
+Rendelman, Dan. “My Utmost for His Highest Written by Oswald Chambers*.” The Newberry Observer*, 8 October 1999, p. 6.
 
 Richman, David. “Directing ‘Freshwater.’” *Virginia Woolf Miscellany*, vol. Spring, no. 2, 1974, pp. 1–2.  
 
@@ -159,7 +159,7 @@ Shires, Linda M. “Glass House Visionary: Julia Margaret Cameron Among the Writ
 
 Tate. “‘Ellen Terry as Lady Macbeth’, John Singer Sargent, 1889.” *Tate*, 1 Jan. 1970, [https://www.tate.org.uk/art/artworks/sargent-ellen-terry-as-lady-macbeth-n02053](https://www.tate.org.uk/art/artworks/sargent-ellen-terry-as-lady-macbeth-n02053)  
 
-Tennyson, Alfred. “In Memoriam A. H. H.” *Poets.Org*, Academy of American Poets, 29 Dec. 2018, [https://poets.org/poem/memoriam-h-h](poets.org/poem/memoriam-h-h).  
+Tennyson, Alfred. “In Memoriam A. H. H.” *Poets.Org*, Academy of American Poets, 29 Dec. 2018, [https://poets.org/poem/memoriam-h-h](https://poets.org/poem/memoriam-h-h).  
 
 Tennyson, Alfred. “Maud.” 1855\.  
 
@@ -181,7 +181,7 @@ Vanderbilt University. “Angel of Grief (Cimitero degli stranieri acattolici al
 
 Wade, and Wade. “Aspinall’s Enamel Ltd.” *Mitcham History Notes*, 29 Aug. 2020, [https://mitchamhistorynotes.com/2015/04/25/aspinalls-enamel-ltd/](https://mitchamhistorynotes.com/2015/04/25/aspinalls-enamel-ltd/).  
 
-Watt, Graham. “Gordon Square Gardens: a hidden history.” *National Library of Medicine*, British Journal of General Practice,[https://pmc.ncbi.nlm.nih.gov/articles/PMC5569729/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5569729/).  
+Watt, Graham. “Gordon Square Gardens: a hidden history.” *National Library of Medicine*, British Journal of General Practice, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5569729/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5569729/).  
 
 Watts, Mary S. *George Frederic Watts*. Macmillan, 1912\.  
 
