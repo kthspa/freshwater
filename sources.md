@@ -51,7 +51,7 @@ Daniel, Malcolm. “Julia Margaret Cameron – an Introduction · V\&A.” Victo
 
 Dixon, Kevin. “Babbacombe’s Georgina and Torquay’s Animal Welfare Campaigners.” *We Are South Devon*, 28 Dec. 2022, [wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/](wearesouthdevon.com/babbacombes-georgina-torquays-animal-welfare-campaigners/).  
 
-*Echo, Nymph, Narcissus, Pan | Britannica*. [https://www.britannica.com/topic/Echo-Greek-mythology](https://www.britannica.com/topic/Echo-Greek-mythology). Accessed 6 Oct. 2024\.  
+"Echo, Nymph, Narcissus, Pan Britannica". [https://www.britannica.com/topic/Echo-Greek-mythology](https://www.britannica.com/topic/Echo-Greek-mythology). Accessed 6 Oct. 2024\.  
 
 “English Literature \- Early Victorian Verse.” *Encyclopedia Britannica*, [www.britannica.com/art/English-literature/Early-Victorian-verse](www.britannica.com/art/English-literature/Early-Victorian-verse).  
 
@@ -121,9 +121,9 @@ Marks, Dan. “How Your Horse Jumps.” *Practical Horseman*, 15 Dec. 2023, [pra
 
 *Maud, and Other Poems*., by Alfred Tennyson, D.c.l., Poet Laureate* [https://www.gutenberg.org/files/56913/56913-h/56913-h.htm](https://www.gutenberg.org/files/56913/56913-h/56913-h.htm). Accessed 5 Oct. 2024\.  
 
-McShane, Cara L. “Galahad.” *Galahad | Robbins Library Digital Projects*, University of Rochester, [d.lib.rochester.edu/camelot/theme/galahad](d.lib.rochester.edu/camelot/theme/galahad). Accessed 17 Oct. 2024\.  
+McShane, Cara L. “Galahad.” *Galahad Robbins Library Digital Projects*, University of Rochester, [d.lib.rochester.edu/camelot/theme/galahad](d.lib.rochester.edu/camelot/theme/galahad). Accessed 17 Oct. 2024\.  
 
-Meinwald, Constance C. “Plato | Life, Philosophy, & Works.” *Britannica*, 23 September 2024, [https://www.britannica.com/biography/Plato](https://www.britannica.com/biography/Plato). Accessed 17 October 2024\.  
+Meinwald, Constance C. “Plato Life, Philosophy, & Works.” *Britannica*, 23 September 2024, [https://www.britannica.com/biography/Plato](https://www.britannica.com/biography/Plato). Accessed 17 October 2024\.  
 
 Nicolaides, Constantia. “Paint Him ‘Great and Grand’.” *National Portrait Gallery*, NPG Blog, 28 May 2015, [https://www.npg.org.uk/blog/paint-him-great-and-grand-julia- margaret-cameron-g.f.-watts-and-henry-taylor](https://www.npg.org.uk/blog/paint-him-great-and-grand-julia-margaret-cameron-g.f.-watts-and-henry-taylor)
 
