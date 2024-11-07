@@ -5,7 +5,7 @@ permalink: /sources.html
 ---
 “1st Earl of Dudley.” *Henry Poole Savile Row*, [https://henrypoole.com/individual/1st-earl-dudley/](https://henrypoole.com/individual/1st-earl-dudley/). Accessed 5 Oct. 2024\.
  
-A Dream of the Past: Sir Isumbras at the Ford.” *National Museums Liverpool*, [https://www.liverpoolmuseums.org.uk/artifact/dream-of-past-sir-isumbras-ford](https://www.liverpoolmuseums.org.uk/artifact/dream-of-past-sir-isumbras-ford). Accessed 1 Nov. 2024\.
+"A Dream of the Past: Sir Isumbras at the Ford.” *National Museums Liverpool*, [https://www.liverpoolmuseums.org.uk/artifact/dream-of-past-sir-isumbras-ford](https://www.liverpoolmuseums.org.uk/artifact/dream-of-past-sir-isumbras-ford). Accessed 1 Nov. 2024\.
 
 Adolph, Andrea. "Virginia Woolf's Revision of a Shavian Tradition." *SHAW The Annual of Bernard Shaw Studies,* vol. 21, 2001, p. 63-79. *Project MUSE*, [https://dx.doi.org/10.1353/shaw.2001.0025](https://dx.doi.org/10.1353/shaw.2001.0025).  
 
