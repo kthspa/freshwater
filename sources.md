@@ -76,7 +76,7 @@ Manvell, Roger. "Ellen Terry". *Encyclopedia Britannica*, 17 Jul. 2024,
 https://www.britannica.com/biography/Ellen-Terry. Accessed 28 October 2024\.  
 Marks, Dan. “How Your Horse Jumps.” *Practical Horseman*, 15 Dec.  
 2023, practicalhorsemanmag.com/health/horse-jumps-30014/.  
-*Maud, and Other Poems*., by Alfred Tennyson, D.c.l., Poet Laureate*.*  
+*Maud, and Other Poems*., by Alfred Tennyson, D.c.l., Poet Laureate*  
 [https://www.gutenberg.org/files/56913/56913-h/56913-h.htm](https://www.gutenberg.org/files/56913/56913-h/56913-h.htm). Accessed 5 Oct.  
 2024\.  
 McShane, Cara L. “Galahad.” *Galahad | Robbins Library Digital Projects*, University of  
