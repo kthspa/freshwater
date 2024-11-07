@@ -153,7 +153,7 @@ Richman, David. “Directing ‘Freshwater.’” *Virginia Woolf Miscellany*, v
 
 Robson, William Wallace. "Alfred, Lord Tennyson". *Encyclopedia Britannica*, 2 Oct. 2024, [https://www.britannica.com/biography/Alfred-Lord-Tennyson](https://www.britannica.com/biography/Alfred-Lord-Tennyson). Accessed 14 October 2024\.  
 
-SHIRES, LINDA M. “Glass House Visionary: Julia Margaret Cameron Among the Writers.” *The Princeton University Library Chronicle,* vol. 57, no. 1, 1995, pp. 106–25. JSTOR, [http://www.jstor.org/stable/26509072](http://www.jstor.org/stable/26509072). Accessed 17 Oct. 2024\.  
+Shires, Linda M. “Glass House Visionary: Julia Margaret Cameron Among the Writers.” *The Princeton University Library Chronicle,* vol. 57, no. 1, 1995, pp. 106–25. JSTOR, [http://www.jstor.org/stable/26509072](http://www.jstor.org/stable/26509072). Accessed 17 Oct. 2024\.  
 
 “Sir Galahad \- King Arthur’s Knights.” *King Arthur’s Knights*, 2018, [kingarthursknights.com/knights-of-the-round-table/sir-galahad/](kingarthursknights.com/knights-of-the-round-table/sir-galahad/).  
 
