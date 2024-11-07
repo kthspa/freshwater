@@ -139,7 +139,7 @@ Oakley, Malcolm. “Isle of Dogs, Explore This Historic Area of East London.” 
 
 Perry, Gill, et al. *The First Actresses: Nell Gwyn to Sarah Siddons*. Edited by National Portrait Gallery, University of Michigan Press, 2011\.  
 
-Popkin, Richard H. “Benedict de Spinoza | Biography, Ethics, & Facts.” *Britannica*, 18 September 2024, [https://www.britannica.com/biography/Benedict-de-Spinoza](https://www.britannica.com/biography/Benedict-de-Spinoza). Accessed 17 October 2024\.  
+Popkin, Richard H. “Benedict de Spinoza, Biography, Ethics, & Facts.” *Britannica*, 18 September 2024, [https://www.britannica.com/biography/Benedict-de-Spinoza](https://www.britannica.com/biography/Benedict-de-Spinoza). Accessed 17 October 2024\.  
 
 “Queen Victoria and Prince Albert” *Royal Museums Greenwich*, [www.rmg.co.uk/stories/topics/queen-victoria-prince-albert](www.rmg.co.uk/stories/topics/queen-victoria-prince-albert). Accessed 16 Oct. 2024\.  
 
