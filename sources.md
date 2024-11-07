@@ -177,7 +177,7 @@ University of Portsmouth. “The Hidden Role of the Milky Way in Ancient Egyptia
 
 Vanderbilt University. “Angel of Grief (Cimitero degli stranieri acattolici al Testaccio): Art in the Christian Tradition.” Vanderbilt University, 12 January 2009,  [https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=54142](https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=54142). Accessed 25 October 2024\.  
 
-“Vishvakarman | Hindu Mythology.” *Encyclopedia Britannica*, [www.britannica.com/topic/Vishvakarman](www.britannica.com/topic/Vishvakarman).  
+“Vishvakarman, Hindu Mythology.” *Encyclopedia Britannica*, [www.britannica.com/topic/Vishvakarman](www.britannica.com/topic/Vishvakarman).  
 
 Wade, and Wade. “Aspinall’s Enamel Ltd.” *Mitcham History Notes*, 29 Aug. 2020, [mitchamhistorynotes.com/2015/04/25/aspinalls-enamel-ltd/](mitchamhistorynotes.com/2015/04/25/aspinalls-enamel-ltd/).  
 
